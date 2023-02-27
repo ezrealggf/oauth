@@ -1,0 +1,13 @@
+ ________  ___  _________
+|\   ____\|\  \|\___   ___\
+\ \  \___|\ \  \|___ \  \_|
+ \ \_____  \ \  \   \ \  \
+  \|____|\  \ \  \   \ \  \
+    ____\_\  \ \  \   \ \  \
+   |\_________\ \__\   \ \__\
+   \|_________|\|__|    \|__|
+
+:: springboot version: ${spring-boot.version}
+:: server port: ${server.port:8080}
+:: ${spring.application.name} [${spring.profiles.active}] start running ................................................
+
